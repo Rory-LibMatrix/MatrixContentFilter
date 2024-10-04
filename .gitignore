@@ -1,0 +1,12 @@
+# Regular dotnet things
+**/bin/
+**/obj/
+**/*.[Dd]ot[Ss]ettings.[Uu]ser
+**/BenchmarkDotNet.Artifacts/
+
+# Local files
+/patches/
+appsettings.Local*.json
+appservice.yaml
+appservice.json
+.run/local/*.run.xml
